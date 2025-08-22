@@ -6,7 +6,7 @@ body {
 }
 
 .top-bar {
-    background: gold;
+    background: pink;
     color: white;
     text-align: center;
     padding: 15px;
@@ -27,8 +27,8 @@ body {
 }
 
 .tabs a.selected {
-    color: #e63946;
-    border-bottom: 2px solid #e63946;
+    color: green;
+    border-bottom: 2px solid green;
 }
 
 main {
@@ -37,7 +37,7 @@ main {
 
 h2 {
     margin-top: 20px;
-    color: #444;
+    color: purple;
 }
 
 .food-item {
@@ -67,12 +67,12 @@ h2 {
 
 .price {
     float: right;
-    color: #e63946;
+    color: green;
     font-weight: bold;
 }
 
 .details p {
     margin: 5px 0 0;
     font-size: 12px;
-    color: #666;
+    color: green;
 }
